@@ -9,7 +9,8 @@ ingredients:
 - Pick a grain (rice, farrow, couscous, quinoa)
 - Pick vegetable combo (carrots, broccoli, kale, cucumber, bell pepper, pickled onion, squash)
 - Add a protein (edemame, grilled tofu)
-- Add a crunch (toasted almonds (stick, not sliced)
+- Add a crunch (toasted almonds (stick, not sliced
+- Add cheese (parm, feta, cheddar)
 - BONUS: Add herbs (mint, cilantro, basil)
 - Add Nama Soyu sauce
 
@@ -20,4 +21,4 @@ directions:
 
 ---
 
-From Life Alive in Lowell, Mass. (2017)
+From Life Alive in Lowell, Mass. (2017). Michael Pollan's book "Mostly Plants" has a poblano tahini dressing to consider.
