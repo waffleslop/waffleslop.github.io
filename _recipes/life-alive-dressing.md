@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Life Alive Lemon Ginger Nama Shoyu Sauce"
-image: broccoli-beer-cheese-soup.jpg
+image: life-alive-dressing.png
 tags: dressing, sauces
 
 ingredients:
