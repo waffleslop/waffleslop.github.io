@@ -1,13 +1,11 @@
 # Site settings
-title: Chowdown
+title: Stanton Recipes
 email: your-email@domain.com
-description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+description: Recipes that we love. Make them and share the good word.
+baseurl: "https://recipes.stanton.io"
 language: "en"
 lang_direction: "ltr"
-color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+color: "#b1A296"
 
 # Build settings
 markdown: kramdown
