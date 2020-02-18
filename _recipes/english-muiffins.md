@@ -24,11 +24,11 @@ directions:
 
 ---
 
-Level: Intermediate
-Total: 57 min
-Prep: 15 min
-Inactive: 30 min
-Cook: 12 min
-Yield: 8 to 10 muffins
+- Level: Intermediate
+- Total: 57 min
+- Prep: 15 min
+- Inactive: 30 min
+- Cook: 12 min
+- Yield: 8 to 10 muffins
 
 Note: Small tuna cans with tops and bottoms removed work well for metal rings.	
