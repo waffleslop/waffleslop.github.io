@@ -5,7 +5,7 @@ title:  "Sourdough Crumpets"
 image: crumpets.jpg
 tags: sourdough
 
-Time
+time:
 - PREP: 3 mins
 - BAKE: 8 mins
 - TOTAL: 11 mins
