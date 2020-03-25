@@ -5,17 +5,13 @@ title:  "Sourdough Crumpets"
 image: crumpets.jpg
 tags: sourdough
 
-time:
-- PREP: 3 mins
-- BAKE: 8 mins
-- TOTAL: 11 mins
 
 ingredients:
 - 1 cup (227g) sourdough starter, unfed/discard
 - 1 teaspoon sugar
 - 1/4 to 1/2 teaspoon salt
 - 3/8 teaspoon baking soda*
-*If your discard starter is particularly sour, increase the baking soda to 1/2 teaspoon.
+- If your discard starter is particularly sour, increase the baking soda to 1/2 teaspoon.
 
 
 directions:
